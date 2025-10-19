@@ -1,0 +1,29 @@
+[
+  {
+    "courseId": 1760787501707,
+    "questions": [
+      {
+        "id": 1,
+        "question": "What does QA stand for?",
+        "options": [
+          "Quality Assurance",
+          "Quick Action",
+          "Query Analysis",
+          "None"
+        ],
+        "answer": "Quality Assurance"
+      },
+      {
+        "id": 2,
+        "question": "Which tool is used for automation testing?",
+        "options": [
+          "Selenium",
+          "Photoshop",
+          "Excel",
+          "Word"
+        ],
+        "answer": "Selenium"
+      }
+    ]
+  }
+]
