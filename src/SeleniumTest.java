@@ -9,7 +9,7 @@ import java.util.HashMap;
 public class SeleniumTest {
     public static void main(String[] args) {
         // Set path to your chromedriver.exe
-        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+        // System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
 
