@@ -142,6 +142,10 @@ Quiz Result: You scored 2 out of 2
 Chrome will automatically open, interact with your quiz, and close after completion.
 
 ---
+## Update:
+Note:
+This project uses Selenium Manager (Selenium 4.6+) which automatically manages browser drivers.
+No manual ChromeDriver download is required.
 
 ## 👩‍💻 Author
 
